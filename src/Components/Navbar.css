@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    background-color: rgb(17 24 39);
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 30px 0px 0px;
+   position: fixed;
+   width:100%;
+   top:0;
+}
+.list{
+   display: flex;
+   flex-direction: row;
+   list-style-type: none;
+  
+   font-weight: 600;
+}
+.mid:hover{
+    color:#2563EB;
+}
